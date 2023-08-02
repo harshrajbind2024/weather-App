@@ -52,9 +52,7 @@ h1 {
 
 .btn{
     all: unset;
-    /* appearance: none;
-    border:none;
-    color: white; */
+   
     font-size: 0.85rem;
     text-transform: uppercase;
     border-radius: 5px;
